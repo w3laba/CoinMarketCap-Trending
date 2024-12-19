@@ -1,28 +1,47 @@
 - You won't be able to just use this bot by downloading this repository, this is a demo code
   
-![Logo](https://i.imgur.com/q1AZtrY.png)
+![CoinMarketCap Trending](https://i.imgur.com/iswF9KZ.png)
 
 
 # COINMARKETCAP TRENDING
 
 **Trending on CoinMarketCap is to promote your project within CMC among the target audience.**
 
-Trending on CoinMarketCap is getting in the spotlight of stubfund and bloggers. Opinion leaders will follow your project. Sometimes it's free publications in popular X-accounts, in thematic Telegram chats.
+#### **CoinMarketCap Trending** Top 1-5
+- Req: 3m+ vol
+- Price from 11000$/24h
 
+#### **CoinMarketCap Trending** Top 6-10
+- Req: 1m+ vol
+- Price from 6000$/24h
 
-- 🔥 **TOP 1-3 CMC TRENDING** 
-- 🔥 **TOP 4-10 CMC TRENDING**
-- 👁 **TOP 1-10 MOST VISITED**
+#### **CoinMarketCap Most Visited** 1-4
+- Req: 3m+ vol
+- Price 600$/24h
+
+#### **CoinMarketCap Most Visited** 5-10
+- Req: 1m+ vol
+- Price 400$/24h
   
-**Price and requirements change frequently due to the market.** For current information, **please contact** https://t.me/RamW3lab
+## Other Trending Services
 
+| Service                     | Duration | Price   |
+| :-------------------------- | :------- | :------ |
+| SolScan Trending Search     |    24h   |   400$  |
+| SolanaFM Trending           |    24h   |   350$  |
+| RugCheck Most Viewed        |    24h   |   150$  |
+| GeckoTerminal Pool Trend    |    24h   |   200$  |
+| GeckoTerminal Search Trend  |    24h   |   200$  |
+| CryptoCom Trending Search   |    8h    |   100$  |
+| Coingecko Search Trend      |    24h   |   150$  |
+| Coingecko Country Trend     |    24h   |   500$  |
+| BirdEye Most Visited        |    24h   |   200$  |
 
-We also work with other popular platforms: **Coingecko, DexScreener, DexTools**.
-
+This is the complete list of our services. For details and orders **contact** https://t.me/RamW3lab
 
 
 ## 💎 Benefits work with W3Lab:
 
-- We always work for results
-- Attention to target audience
-- Presence on the most important platforms of the crypto industry
+- [Verified on PinkSale](https://docs.pinksale.finance/Marketing-Firms-13bd7dc69b3e8069beabc58d0e4bbb4b), ensuring trust and credibility
+- Results-driven strategies tailored to your project
+- Focused attention on reaching and engaging your target audience

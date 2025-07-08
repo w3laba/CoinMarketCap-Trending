@@ -8,36 +8,34 @@
 **Trending on CoinMarketCap is to promote your project within CMC among the target audience.**
 
 #### **CoinMarketCap Trending** Top 1-5
-- Req: 3m+ vol
-- Price from 11000$/24h
+- Req: 2.5m+ vol
+- Price from 4000$ for 8+ hours
+❗️Note: 8 hours stable, but can also hold 16 or 24 hours, you don't pay extra for it
+- *Prices for our reseller partners are different, please contact our managers
 
-#### **CoinMarketCap Trending** Top 6-10
+#### **CoinMarketCap Most Visited** 1-5
 - Req: 1m+ vol
-- Price from 6000$/24h
-
-#### **CoinMarketCap Most Visited** 1-4
-- Req: 3m+ vol
-- Price 600$/24h
-
-#### **CoinMarketCap Most Visited** 5-10
-- Req: 1m+ vol
-- Price 400$/24h
+- Price 500$/24h
+- *Prices for our reseller partners are different, please contact our managers
   
 ## Other Trending Services
 
 | Service                     | Duration | Price   |
 | :-------------------------- | :------- | :------ |
+| DexScreener Trending        |    24h   |   1500$ |
+| DexTools Trending Hot Pair  |    24h   |   2400$ |
+| Phantom Wallet Trending     |    24h   |   6000$ |
 | SolScan Trending Search     |    24h   |   400$  |
 | SolanaFM Trending           |    24h   |   350$  |
 | RugCheck Most Viewed        |    24h   |   150$  |
-| GeckoTerminal Pool Trend    |    24h   |   200$  |
-| GeckoTerminal Search Trend  |    24h   |   200$  |
+| GeckoTerminal Pool Trend    |    24h   |   150$  |
+| GeckoTerminal Search Trend  |    24h   |   150$  |
 | CryptoCom Trending Search   |    8h    |   100$  |
-| Coingecko Search Trend      |    24h   |   150$  |
+| Coingecko Search Trend      |    24h   |   500$  |
 | Coingecko Country Trend     |    24h   |   500$  |
 | BirdEye Most Visited        |    24h   |   200$  |
 
-This is the complete list of our services. For details and orders **contact** https://t.me/RamW3lab
+This is the complete list of our services. For details and orders **contact** https://t.me/RamW3lab or https://t.me/w3lab
 
 
 ## 💎 Benefits work with W3Lab:
